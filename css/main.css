@@ -9,3 +9,11 @@ html {
 body {
 	margin: 0;
 }
+
+h1 {
+	color: #3b3a33;
+}
+
+.masthead {
+	background-image: url("../images/logo.svg");
+}
